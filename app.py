@@ -1,4 +1,4 @@
-raise RuntimeError("Error inducido para probar fallback en Render")
+#raise RuntimeError("Error inducido para probar fallback en Render")
 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
